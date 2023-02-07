@@ -1,0 +1,2 @@
+def validParens(str):
+  pass
