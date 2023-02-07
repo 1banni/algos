@@ -1,2 +1,2 @@
 def validParens(str):
-  pass
+  return False
